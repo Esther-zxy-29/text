@@ -10,7 +10,6 @@ public class Employee {
     public Employee() {
     }
 
-    // 全参构造
 
     public Employee(String id, String name, double salary) {
         this.id = id;
